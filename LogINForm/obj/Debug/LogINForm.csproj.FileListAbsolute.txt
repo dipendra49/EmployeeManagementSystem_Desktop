@@ -1,0 +1,12 @@
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\bin\Debug\LogINForm.exe.config
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\bin\Debug\LogINForm.exe
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\bin\Debug\LogINForm.pdb
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.csproj.AssemblyReference.cache
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.Login.resources
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.UserDetails.resources
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.Properties.Resources.resources
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.csproj.GenerateResource.cache
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.csproj.CoreCompileInputs.cache
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.exe
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.pdb
+C:\Users\Dipendra\source\repos\LogINForm\LogINForm\obj\Debug\LogINForm.SignUp.resources
